@@ -1,6 +1,6 @@
 CC=gcc
 
-TARGET=libasdf.so
+TARGET=libfmt_struct_err.so
 
 BUILDDIR=build
 

@@ -1,6 +1,6 @@
 #ifndef ASDF_H
 #define ASDF_H
 
-extern int asdf;
+void fmt_struct_err(char* msg);
 
 #endif

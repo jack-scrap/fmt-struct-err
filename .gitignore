@@ -1,2 +1,2 @@
 build/*.o
-libasdf.so
+libfmt_struct_err.so
